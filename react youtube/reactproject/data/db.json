@@ -1,0 +1,16 @@
+{
+  "data": [
+    {
+      "title": "title1",
+      "body": "json1",
+      "content": "Imagine I have a document written by somebody which contains plain text. Now that plain text just happens to be valid JSON as well. Would I then be wrong to use text/plain as its mime-type? JSON is a SUB-TYPE of text. So I think both should be allowed. The question is which works better in practice. ",
+      "id": 1
+    },
+    {
+      "title": "title2",
+      "body": "json2",
+      "content": "According to comment by codetoshare IE has problems with application/json. But no browser should have problems with text/plain. If text/plain is unsafe then how can I serve text-files from my web-site?",
+      "id": 2
+    }
+  ]
+}

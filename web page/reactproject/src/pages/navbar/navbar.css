@@ -1,0 +1,40 @@
+.navbar {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+    background-color: DodgerBlue;
+    height: 100px;
+}
+
+.navbar-left {
+    background-color: rgb(94, 18, 18);
+    display: flex;
+    flex-direction: row;
+    margin-left: 5px;
+}
+
+.navbar-mid {
+    background-color: rgb(72, 66, 90);
+    display: flex;
+    flex-direction: row;
+}
+
+.navbar-right {
+    background-color: rgb(4, 65, 14);
+    display: flex;
+    flex-direction: row;
+    margin-right: 5px;
+}
+
+.navbar-left div,
+.navbar-right div,
+.navbar-mid div {
+    background-color: rgb(255, 255, 255);
+    height: 50px;
+    width: 50px;
+    margin: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}

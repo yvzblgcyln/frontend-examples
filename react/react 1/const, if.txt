@@ -1,0 +1,2 @@
+1.const değişken tanımlama ve kullanma
+2.short if else

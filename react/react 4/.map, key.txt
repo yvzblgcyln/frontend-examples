@@ -1,0 +1,2 @@
+1. .map döngüsü (props ile)
+2. .map döngüsü ve propertyden id'yi key gibi kullanma

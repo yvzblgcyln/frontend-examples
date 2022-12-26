@@ -1,0 +1,11 @@
+.footer {
+    background-color: rgb(255, 0, 0);
+    height: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.text {
+    text-decoration: underline;
+}

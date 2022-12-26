@@ -1,0 +1,6 @@
+reactstrap
+npm install reactstrap
+npm install bootstrap
+
+index.js içinde:
+import 'bootstrap/dist/css/ bootstrap.min.css'

@@ -1,0 +1,3 @@
+1. component oluşturma ve app.js içinde kullanma
+2. props kullanma (default başlangıç değeri ayarlanır)
+3. props ve array
